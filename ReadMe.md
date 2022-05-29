@@ -1,4 +1,4 @@
-# Odin Projectt - jQuery
+# Odin Project - jQuery
 
 
 
