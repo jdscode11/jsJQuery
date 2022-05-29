@@ -1,5 +1,5 @@
-# ZombieGrid
-Odin Pro
+# Odin Projectt - jQuery
+
 
 
 Project Date: 
