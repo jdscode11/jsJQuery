@@ -4,7 +4,7 @@
 
 Project Date: 
 
-1/2014
+3/2016
 
 Author: 
 
@@ -24,5 +24,5 @@ Grid of drawable css syled pixels render in a grid on the x and y axis.
 
 Dev Notes:
 
-Literally my very first web project involving a tutorial, Sort of the beginning of this fullstack journey.
+Literally my very first web project involving a tutorial, Sort of the beginning of this fullstack web journey.
 Now it's all about ReactJS and good API design.
