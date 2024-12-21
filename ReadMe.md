@@ -12,7 +12,7 @@ James D. Sullivan / JDSCode
 
 Description: 
 
-Odin Project, jQuery exercise with recursive looping and dom rendering.
+Odin Project, jQuery exercise with loops and dom rendering.
 
 Platform(s): 
 
